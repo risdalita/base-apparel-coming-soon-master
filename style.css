@@ -21,7 +21,6 @@ body::-webkit-scrollbar {
 }
 
 .container {
-  /* width: 90%; */
   display: flex;
   justify-content: space-between;
   align-items: start;
